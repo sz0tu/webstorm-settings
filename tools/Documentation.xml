@@ -1,0 +1,9 @@
+<toolSet name="Documentation">
+  <tool name="JSDoc3" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/code/project-tools/jsdoc/jsdoc" />
+      <option name="PARAMETERS" value="-c $ProjectFileDir$/jsdoc-config.json" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

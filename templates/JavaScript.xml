@@ -1,0 +1,81 @@
+<templateSet group="JavaScript">
+  <template name="col" value="console.log($LOG$)" description="console.log" toReformat="false" toShortenFQNames="true">
+    <variable name="LOG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="dir" value="console.dir($LOG$);" description="console.dir" toReformat="false" toShortenFQNames="true">
+    <variable name="LOG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="for" value="for (var i = 0; i &lt; $Things$.length; i++) {&#10;&#9;console.log($Things$[i]);&#10;}" description="For loop" toReformat="false" toShortenFQNames="true">
+    <variable name="Things" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="apa" value="console.log(&quot;APA APA APA&quot;)" description="Print apa" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="foreach" value="forEach(entry =&gt; {&#10;  console.dir(entry)$END$&#10;});" description="For each loop" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="insp" value="console.log(require('util').inspect($INSPECT$, { showHidden: true, depth: null, colors: true }));" description="Inspect Object (node)" toReformat="false" toShortenFQNames="true">
+    <variable name="INSPECT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ddir" value="console.dir('$LOG$');&#10;console.dir($LOG$);" description="Double dir" toReformat="false" toShortenFQNames="true">
+    <variable name="LOG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="d" value="console.log(&quot;$LOG_STRING$&quot;, $LOG$)" description="double console.log" toReformat="false" toShortenFQNames="true">
+    <variable name="LOG" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LOG_STRING" expression="LOG" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="time" value="console.time($LOG$);" description="console time" toReformat="false" toShortenFQNames="true">
+    <variable name="LOG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="timeend" value="console.timeEnd($LOG$);" description="console time" toReformat="false" toShortenFQNames="true">
+    <variable name="LOG" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="tim" value="console.time('# TIME: $LOG$');&#10;console.timeEnd('# TIME: $LOG_STRING$');" description="console time and end" toReformat="false" toShortenFQNames="true">
+    <variable name="LOG" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LOG_STRING" expression="LOG" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="webpack-dev-server" value="var WebpackDevServer = require('webpack-dev-server');&#10;var webpack = require('webpack');&#10;var config = require('./webpack.config.js');&#10;var path = require('path');&#10;&#10;var compiler = webpack(config);&#10;var server = new WebpackDevServer(compiler, {&#10;&#9;hot: true,&#10;&#9;filename: config.output.filename,&#10;&#9;publicPath: config.output.publicPath,&#10;&#9;stats: {&#10;&#9;&#9;colors: true&#10;&#9;}&#10;});&#10;server.listen(8080, 'localhost', function() {});" description="Webpack dev server" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="map" value="map($LOG_STRING$ =&gt; &#10;  $LOG$&#10;)" description="Array map" toReformat="false" toShortenFQNames="true">
+    <variable name="LOG" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LOG_STRING" expression="LOG" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

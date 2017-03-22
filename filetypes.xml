@@ -1,0 +1,23 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="ftl" type="HTML" />
+      <mapping ext="js-include" type="JavaScript" />
+      <mapping ext="md" type="Native" />
+      <mapping pattern="dist" type="PLAIN_TEXT" />
+      <mapping pattern="browserslist" type="PLAIN_TEXT" />
+      <mapping pattern="!FILENAMES_STARTING_WITH_BUNDLE_OR_GEN_WILL_BE_DELETED_WHEN_BUILDING" type="PLAIN_TEXT" />
+      <mapping pattern="run-with-stage-db" type="PLAIN_TEXT" />
+      <mapping pattern="Lightbox" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping ext="opts" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="boll" type="PLAIN_TEXT" />
+      <mapping ext="node" type="PLAIN_TEXT" />
+      <mapping ext="bpmn" type="XML" />
+      <mapping ext="tss" type="Titanium Style Sheet" />
+    </extensionMap>
+  </component>
+</application>

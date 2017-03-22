@@ -1,0 +1,7 @@
+<templateSet group="html/xml">
+  <template name="html5" value="&lt;!doctype html&gt;&#10;&lt;html&gt;&#10;&lt;head&gt;&#10;&#9;&lt;meta charset=&quot;utf-8&quot;&gt;&#10;&#9;&lt;meta http-equiv=&quot;x-ua-compatible&quot; content=&quot;ie=edge&quot;&gt;&#10;&#9;&lt;title&gt;&lt;/title&gt;&#10;&#10;&#9;&lt;!-- &lt;link rel=&quot;stylesheet&quot; href=&quot;main.css&quot;&gt; --&gt;&#10;&#9;&lt;script src=&quot;index.js&quot;&gt;&lt;/script&gt;&#10;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&#9;&lt;div id=&quot;app&quot;&gt;&lt;/div&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="HTML5 Template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

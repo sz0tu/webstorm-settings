@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.nativescript.org/tns.xsd" location="$USER_HOME$/code/vgr/oppna-program-reklistan-app/rekapp/dev-resources/editor-resources" />
+  </component>
+</application>
