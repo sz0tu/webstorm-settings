@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="prettier" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.nvm/versions/node/v7.5.0/bin/prettier" />
+      <option name="PARAMETERS" value="--write --semi false --jsxBracketSameLine true --printWidth 100 $FilePathRelativeToProjectRoot$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
