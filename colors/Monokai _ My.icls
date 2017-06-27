@@ -601,6 +601,24 @@
         <option name="BACKGROUND" value="30322b" />
       </value>
     </option>
+    <option name="ELM_DEFINITION_NAME">
+      <value>
+        <option name="FOREGROUND" value="b8b34e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ELM_TYPE_ANNOTATION_NAME">
+      <value>
+        <option name="FOREGROUND" value="b8b34e" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="ELM_TYPE_ANNOTATION_SIGNATURE_TYPES">
+      <value>
+        <option name="FOREGROUND" value="127b7e" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="ENUM_CONST">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
