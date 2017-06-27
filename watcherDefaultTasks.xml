@@ -63,7 +63,7 @@
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="elm" />
-      <option name="immediateSync" value="true" />
+      <option name="immediateSync" value="false" />
       <option name="name" value="elm-format" />
       <option name="output" value="" />
       <option name="outputFilters">
