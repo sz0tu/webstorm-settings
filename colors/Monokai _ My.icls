@@ -607,6 +607,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="ELM_TYPE">
+      <value>
+        <option name="FOREGROUND" value="a274c7" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="ELM_TYPE_ANNOTATION_NAME">
       <value>
         <option name="FOREGROUND" value="b8b34e" />
