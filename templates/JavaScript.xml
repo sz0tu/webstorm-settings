@@ -78,7 +78,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="do" value=".do(x =&gt; {&#10;  console.log(x)&#10;  return x&#10;})" description="Console Log RxJS" toReformat="false" toShortenFQNames="true">
+  <template name="do" value=".do(x =&gt; console.log(x))" description="Console Log RxJS" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
