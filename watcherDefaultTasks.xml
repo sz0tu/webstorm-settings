@@ -19,7 +19,7 @@
       <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="--write --no-semi --jsx-bracket-same-line --print-width 100  $FilePath$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
@@ -32,7 +32,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/.nvm/versions/node/v7.5.0/bin/prettier" />
+      <option name="program" value="/usr/local/bin/prettier" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="" />
