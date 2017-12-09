@@ -5,6 +5,7 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="32424a" />
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="272822" />
@@ -14,10 +15,15 @@
     <option name="GUTTER_BACKGROUND" value="263238" />
     <option name="INDENT_GUIDE" value="3b3a32" />
     <option name="LINE_NUMBERS_COLOR" value="465d68" />
+    <option name="MODIFIED_LINES_COLOR" value="344a46" />
+    <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTED_INDENT_GUIDE" value="3b3a32" />
     <option name="SELECTION_BACKGROUND" value="9ec6ff" />
     <option name="SELECTION_FOREGROUND" value="0" />
+    <option name="TEARLINE_COLOR" value="263238" />
+    <option name="VISUAL_INDENT_GUIDE" value="" />
     <option name="WHITESPACES" value="3b3a32" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
