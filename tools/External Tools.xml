@@ -1,7 +1,7 @@
 <toolSet name="External Tools">
   <tool name="prettier" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/.nvm/versions/node/v8.1.4/bin/prettier" />
+      <option name="COMMAND" value="$USER_HOME$/code/izettle/inugami/node_modules/.bin/prettier" />
       <option name="PARAMETERS" value="--write --no-semi --jsx-bracket-same-line --print-width 100 $FilePathRelativeToProjectRoot$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
