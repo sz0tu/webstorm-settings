@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="File '.../packages/tentales-example-simple/src/index.ts [tentales]'" />
+    <option name="defaultScopeName" value="File '.../packages/tentales-example-simple/src/index.ts [tentales]'" />
+    <option name="SEARCH_SCOPE" value="File '.../packages/tentales-example-simple/src/index.ts [tentales]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
