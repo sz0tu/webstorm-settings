@@ -18,10 +18,17 @@
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="Move" />
+  <action id="NextDiff" />
+  <action id="PreviousDiff" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
+  <action id="StepInto" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
