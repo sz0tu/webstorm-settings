@@ -2,11 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="md" type="Native" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="Brewfile" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="bash" type="PLAIN_TEXT" />
       <mapping ext="erb" type="PLAIN_TEXT" />
+      <mapping pattern="*.d.ts" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
