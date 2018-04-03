@@ -33,9 +33,9 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="$USER_HOME$/code/izettle/site-components/node_modules/.bin/prettier" />
+      <option name="program" value="$USER_HOME$/code/izettle/web-service-updater/node_modules/.bin/prettier" />
       <option name="runOnExternalChanges" value="true" />
-      <option name="scopeName" value="Current File" />
+      <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="" />
       <envs />
