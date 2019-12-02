@@ -1,13 +1,14 @@
 <scheme name="Monokai - My" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2019-10-25T11:30:49</property>
+    <property name="modified">2019-12-02T10:14:39</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="20" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="32424a" />
     <option name="CARET_COLOR" value="f8f8f0" />
