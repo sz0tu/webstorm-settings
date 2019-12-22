@@ -1,7 +1,7 @@
 <scheme name="Monokai - My" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2019-12-02T13:40:27</property>
+    <property name="modified">2019-12-22T16:49:16</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -971,9 +971,7 @@
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="80807f" />
-      </value>
+      <value />
     </option>
     <option name="OC.BADCHARACTER">
       <value>
