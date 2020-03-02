@@ -1,7 +1,7 @@
 <scheme name="Monokai - My" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2020-03-02T13:21:37</property>
+    <property name="modified">2020-03-02T20:40:55</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -972,7 +972,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="3c3f41" />
+        <option name="FOREGROUND" value="686b6d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
