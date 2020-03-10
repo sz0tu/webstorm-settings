@@ -1,7 +1,7 @@
 <scheme name="Monokai - My" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2020-03-02T20:40:55</property>
+    <property name="modified">2020-03-10T19:20:21</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -1598,6 +1598,11 @@
         <option name="FOREGROUND" value="c7c7ff" />
         <option name="FONT_TYPE" value="3" />
         <option name="ERROR_STRIPE_COLOR" value="ff" />
+      </value>
+    </option>
+    <option name="TS.TYPE_GUARD">
+      <value>
+        <option name="BACKGROUND" value="292d24" />
       </value>
     </option>
     <option name="TYPEDEF">
